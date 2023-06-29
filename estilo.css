@@ -1,0 +1,39 @@
+.tilo{
+    background-color: white;
+}
+.sesion1{
+    display: grid;
+    grid-template-columns: 200px auto;
+    position: fixed;
+    height: 200px;
+}
+.sesion2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.sesion2lo2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.navo{
+    background: center;
+    background-color: green;
+    color: black;
+    border: 2px solid rgb(red, rgb(0, 255, 0), blue);
+    padding: 20px 20px;
+    text-align: center;
+    display: online-block;
+    border-radius: 10px;
+}
+.enunciado{
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    padding-top: 3px;
+    color:white;
+}
+.sesion3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
